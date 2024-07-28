@@ -119,9 +119,8 @@ https://user-images.githubusercontent.com/40715071/116125931-b175b380-a6e3-11eb-
 
 - ### Authors :pencil2:
 
-  1. [Vasu Sharma](https://github.com/vasusharma7)
-  2. [Anup Nair](https://github.com/AnupNair08)
-  <!-- 3. [Tanaya Jadhav](https://github.com/tanayajadhav1105) -->
+  1. [Ankita Soni]([https://github.com/vasusharma7](https://github.com/Ankita19soni))
+ 
 
 - ### Contributing :memo:
 
